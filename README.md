@@ -1,12 +1,12 @@
 TECHNOLOGIES USED:
-Programming Language: Python
+Programming Language: Python.
 LIBRARIES:
-~ BeautifulSoup: For parsing HTML content
-~ Requests: To fetch web page data through HTTP requests
-~ Selenium: For handling dynamic content or JavaScript-heavy pages
-~ Pandas: For data manipulation and saving results in formats like CSV or Excel
-~ Threading/Asyncio: To perform multi-threaded or asynchronous scraping
-~ Proxy Middleware: For managing IP addresses to avoid getting blocked
+~ BeautifulSoup: For parsing HTML content.
+~ Requests: To fetch web page data through HTTP requests.
+~ Selenium: For handling dynamic content or JavaScript-heavy pages.
+~ Pandas: For data manipulation and saving results in formats like CSV or Excel.
+~ Threading/Asyncio: To perform multi-threaded or asynchronous scraping.
+~ Proxy Middleware: For managing IP addresses to avoid getting blocked.
 FEATURES:
 ~ Product Search and Extraction: Scrape product details such as names, prices, ratings, and reviews from Amazon search results.
 ~ Filter Products: Provide sorting and filtering options based on criteria like price, rating, or availability for targeted searches.
